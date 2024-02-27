@@ -1,6 +1,7 @@
 Very simple Anti-flash script for Counterstrike 2
 
 You can get the new integer values from offset dumps like: https://raw.githubusercontent.com/a2x/cs2-dumper/main/generated/client.dll.json
+And make sure you have pymem installed!
 
 The developer is not responsible for any bans.
 
